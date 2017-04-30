@@ -1,9 +1,10 @@
 # rhomboid
 Rhomboid, a set of tools for delivering a course on GitHub
 
-## Warning
+## Warnings
 
-This code has not yet been cleaned up. It's currently in a rough version.
+- This code has not yet been cleaned up. It's currently in a rough version.
+- The code is currently set up to use GitHub Enterprise. I think it may be a matter of just changing [this line](https://github.com/mgelbart/rhomboid/blob/master/src/main.py#L8) and [this line](https://github.com/mgelbart/rhomboid/blob/master/src/main.py#L49) for it to work with github.com, but I haven't tested this yet.
 
 ## Demo
 
