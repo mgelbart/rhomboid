@@ -1,0 +1,11 @@
+{
+	"url" : "https://github.ubc.ca",
+	"org" : "ubc-mds-2016",
+	"name" : "DSCI 999",
+	"repo-prefix" : "DSCI_999",
+	"staff-repo" : "DSCI_999_made-up-course_instructors",
+	"students-repo" : "DSCI_999_made-up-course_students",
+	"grades-repo" : "DSCI_999_grades_instructors",
+	"staff-team" : "DSCI_999_made-up-course",
+	"students-team" : "students_test"
+}

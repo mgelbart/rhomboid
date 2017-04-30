@@ -1,0 +1,43 @@
+{
+	"code": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_code.md",
+		"name": "Code"
+	},
+	"mechanics": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_mech.md",
+		"name": "Mechanics"
+	},
+	"writing": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_writing.md",
+		"name": "Writing",
+		"sort": 3,
+		"rows": {
+			"grammar & spelling" : 0.5,
+			"length" : 0.5
+		}
+	},
+	"reasoning": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_reasoning.md",
+		"name": "Reasoning"
+	},
+	"presentations": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_presentations.md",
+		"name": "Presentations",
+		"rows": {
+			"engagement & clarify" : 0.5,
+			"questions & answers" : 0.5
+		}
+	},
+	"viz": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_viz.md",
+		"name": "Visualizations"
+	},
+	"quiz": {
+		"path": "rubric_quiz.md",
+		"name": "Quiz"
+	},
+	"spark": {
+		"href": "https://github.com/UBC-MDS/public/blob/master/rubric/rubric_spark.md",
+		"name": "Spark"
+	}
+}

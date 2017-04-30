@@ -1,0 +1,16 @@
+{
+    "lab" : {
+        "weight" : 0.4,
+        "peer-review" : 0,
+        "public-after-submit" : true,
+        "main-file" : "labs/lab1/lab1.*",
+        "main-dir" : "labs/lab1"
+    },
+    "exam" : {
+        "weight" : 0.6,
+        "peer-review" : 0,
+        "public-after-submit" : false,
+        "main-file" : "quiz/quiz2/quiz2.*",
+        "main-dir" : "labs/lab1"
+    }
+}

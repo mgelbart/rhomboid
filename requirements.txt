@@ -1,0 +1,8 @@
+pandas
+-e git+https://github.com/mgelbart/github3.py#egg=github3.py
+pyyaml
+bs4
+Pillow
+tabulate
+gitpython
+jupyter
